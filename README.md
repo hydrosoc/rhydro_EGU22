@@ -21,7 +21,6 @@ This course contributes new topics to those delivered in previous years, buildin
 
 ## Programme
 
-Topics covered in this years’ course include:
 -	8.30-8.50 Identification of hydrologic events (Conrad Wasko + Danlu Guo)
 -	8.50-9.10 Flood forecast verification in R (Andrea Ficchi)
 -	9.10-9.30 Machine learning for spatio-temporal modelling (Razi Sheikholeslami)
