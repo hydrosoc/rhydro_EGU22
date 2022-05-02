@@ -33,6 +33,7 @@ Topics covered in this years’ course include:
 
 - Slater et al. 2019, [Using R in Hydrology: a review of recent developments and future directions](https://hess.copernicus.org/articles/23/2939/2019/), HESS
 - Astagneau et al. 2021, [Hydrology modelling R packages: a unified analysis of models and practicalities from a user perspective](https://hess.copernicus.org/preprints/hess-2020-498/), HESSD
+- Torfs & Brauer 2022, [A (very) short introduction to R](https://github.com/ClaudiaBrauer/A-very-short-introduction-to-R)
 - [CRAN Hydrology TaskView](https://cran.r-project.org/web/views/Hydrology.html "Hydrology TaskView on CRAN")
 - <a href="https://odelaigue.github.io/airGR/" rel="nofollow">airGR</a> - a description of the airGR package (INRAE GR Hydrological Models)
 - <a href="https://ropensci.github.io/hddtools/" rel="nofollow">hddtools</a> - an R package to facilitate access to a variety of online open data sources for hydrologists
