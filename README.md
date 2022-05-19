@@ -13,7 +13,7 @@ This course contributes new topics to those delivered in previous years, buildin
 
 ## Details 
 
-- **Where?** Thursday 26 May, 8:30-10:00 CEST in room 2.61/2.62 or online.
+- **Where?** Thursday 26 May, 8:30-10:00 CEST in room -2.61/2.62 or online.
 - **What?** This session is aimed at hydrologists who are interested in hearing more about R as well as those who are advanced R programmers wanting to discuss recent developments in an open environment. 
 - The session is organised in cooperation with the [Young Hydrologic Society (YHS)](https://younghs.com/ "Young Hydrologic Society website") .
 - Participants are invited to post and discuss questions in the [Hydrology in R Facebook group](https://www.facebook.com/groups/1130214777123909/ "link to Hydro-R Facebook group")
